@@ -1,0 +1,219 @@
+html,body{
+  margin:0;
+  padding:0;
+  width: 100%;
+  height:100%;
+  overflow-x: hidden;
+}
+
+@font-face{
+  font-family:'Source sans Pro';
+  src:url('./fonts/Source-Sans-Font/SourceSansPro-Regular.ttf');
+}
+
+@font-face{
+  font-family:'Source sans bold';
+  src:url('./fonts/Source-Sans-Font/SourceSansPro-Bold.ttf');
+}
+
+.p-nkona{
+  font-family:'Source sans Pro';
+}
+
+.p-boy{
+  font-family:'Source sans Pro';
+}
+
+.girl-tag{
+  font-family:'Source sans Pro';
+}
+
+.contri{
+  font-family:'Source sans bold' ;
+  color:#890906;
+  /* position: relative; */
+  /* bottom: 45px; */
+  font-size: 20px;
+}
+
+.img-1{
+  position: relative;
+  top:45px;
+}
+
+.img-2{
+  position: relative;
+  top:63px;
+}
+
+.img-3{
+  position: relative;
+  top:63px;
+}
+.burger{
+  position: absolute;
+}
+
+.find{
+  font-family:'Source sans bold' ;
+  color:#890906;
+  /* position: relative;
+  bottom: 58px; */
+  font-size: 20px;
+}
+
+.drive{
+  font-family:'Source sans bold' ;
+  color:#890906;
+  /* position: relative;
+  bottom: 58px; */
+  font-size: 20px;
+}
+
+.Hinsta{
+  font-family:'Source sans bold' ;
+}
+
+.h6-heading{
+  font-family:'Source sans bold' ;
+}
+
+.heading-first-page{
+  font-family:'Source sans bold' ;
+}
+
+.heading-font{
+  font-family:'Source sans bold' ;
+color: white;
+}
+
+.footer-text{
+  font-family:'Source sans bold' ;
+ 
+}
+
+.Hinsta-p{
+  font-family:'Source sans bold' ;
+
+}
+
+.Nyoka{
+  font-family:'Source sans bold' ;
+}
+
+.Nyoka-p{
+  font-family:'Source sans bold' ;
+}
+
+
+.Ayabonga{
+  font-family:'Source sans bold' ;
+}
+
+.Ayabonga-p{
+  font-family:'Source sans bold' ;
+}
+
+.section-heading{
+  font-family:'Source sans Pro' ;
+}
+
+
+.first-section{
+  background-image:url("./images/hero.png");
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+}
+
+.second-page-second-section{
+  background: url("./images/meet-the-team.png");
+  background-position:center;
+  background-size:cover;
+  height:100vh;
+}
+
+.nav li{
+  margin:10px;
+  font-size: 23px
+}
+
+.rotate{
+  transform: rotate(90deg);
+  position: relative;
+  left:-50px;
+}
+
+.second-page-two{
+   background: #890906;
+
+}
+
+.since{
+  color:#354147;
+  font-family:'Source sans bold' ;
+  font-size: 20px;
+}
+
+.red-location{
+  color:#890906;
+  font-family:'Source sans bold' ;
+}
+
+.meals{
+  color:#890906;
+  font-family:'Source sans bold' ;
+  padding: 0;
+  margin: 0;
+}
+
+
+.money{
+  font-family:'Source sans bold' ;
+  color:#354147;
+  font-size: 20px;
+}
+
+.heading-text{
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+.key{
+padding:0;
+margin:0;
+  color: #354147;
+  font-family:'Source sans bold' ;
+}
+
+
+.third-section{
+  background: #354147;
+
+}
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+}
+
+.fourth-section{
+  padding:0;
+  margin:0;
+  display: flex;
+}
+
+
+.fith-section{
+background: #890906;
+
+}
+
+ul{
+  list-style-type: none;
+}
+
+.footer li{
+  color:white;
+margin:20px;
+}
