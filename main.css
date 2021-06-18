@@ -248,6 +248,12 @@ margin:0;
 }
 
 
+@media (max-width: 575.98px) { 
+  .main-nav{
+    display:none;
+  }
+}
+
 .third-section{
   background: #354147;
 
